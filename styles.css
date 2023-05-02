@@ -40,4 +40,9 @@ a {
   float:right;
   font-family:fantasy;
   font-size: 25px;
+  color: goldenrod;
+}
+
+* {
+    text-align: center;
 }
