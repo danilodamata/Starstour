@@ -1,0 +1,43 @@
+.sol {
+    background-color: rgb(255, 255, 255);
+}
+
+.sol table {
+    border: 2px solid rgb(211, 183, 56);
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+    font-size: 18px;    
+}
+
+.sol th {
+    border: 2px double gold;
+}
+
+a {
+    color: gold;
+    text-decoration: none;
+    
+}
+
+.metrics {
+    background-color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: Impact;
+}
+
+.metrics th {
+    font-family: 'Courier New', monospace;
+}
+
+
+.aside {
+  width: 50%;
+  padding-left: 40px;
+  margin-left: 15px;
+  float:right;
+  font-family:fantasy;
+  font-size: 25px;
+}
